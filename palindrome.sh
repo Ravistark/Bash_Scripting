@@ -10,7 +10,7 @@ done
 
 if [ "$str" = "$reverse" ]
 then
-    echo "Palindrome"
+    echo "$str is a Palindrome"
 else
-    echo "Not a Palindrome"
+    echo "$str is not a Palindrome"
 fi
